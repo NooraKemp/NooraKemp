@@ -1,7 +1,7 @@
 Hi 👋 My name is Noora Kemppainen
 =================================
 
-Computer science student.
+Computer science student
 -------------------------
 
 Biomedical laboratory scientist, studying computer science.
